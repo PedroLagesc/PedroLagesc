@@ -26,3 +26,7 @@
   <img align="center" alt="pl-Spark" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png">
   
 </div>  
+
+<div>
+![Snake animation](https://github.com/PedroLagesc/PedroLagesc/blob/output/github-contribution-grid-snake.svg)
+</div>  
